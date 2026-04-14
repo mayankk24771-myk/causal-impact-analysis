@@ -39,3 +39,10 @@ This project analyzes whether the increase is causal or coincidental.
 ```bash
 pip install -r requirements.txt
 python causal_analysis.py
+
+
+## 👤 Author
+Mayank Kumar  
+Aspiring Data Analyst  
+
+🔗 LinkedIn: https://www.linkedin.com/in/mayank-kumar123/
