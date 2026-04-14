@@ -26,6 +26,12 @@ This project analyzes whether the increase is causal or coincidental.
 
 ---
 
+## 📊 Output
+
+![Result](output/output.png)
+
+---
+
 ## 🛠️ Tools Used
 - Python  
 - Pandas  
